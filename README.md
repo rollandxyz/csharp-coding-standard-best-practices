@@ -1,7 +1,7 @@
 # csharp-coding-standard-best-practices
 
 
-
+- (C# Coding Standards & Best Programming Practice)[]http://businessinteriorsidaho.com/wp-content/uploads/2016/09/DotNetCodingStandard.pdf
 - (The 9 Coding Standards C# Developers Need to Get Started)[https://blog.submain.com/coding-standards-c-developers-need/]
 - (Dotnet coding standard)[http://businessinteriorsidaho.com/wp-content/uploads/2016/09/DotNetCodingStandard.pdf]
 - (C# Coding Standards and Naming Conventions)[https://www.dofactory.com/reference/csharp-coding-standards]
